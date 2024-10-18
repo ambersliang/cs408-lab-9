@@ -2,23 +2,18 @@
 
 ## Overview
 
-TODO: Write a project description
+The lab aims to enhance the bouncy ball demo by introducing an interactive object that will "eat" the bouncing balls upon collision, making the experience more engaging and enjoyable.
+
+## Running the Webpage
+
+The webpage can be run using the VSCode plugin "Live Preview" to view it on its development server.
+
+The game can be controlled using the "W," "A," "S," and "D" keys.
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
+- Javascript constructors: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Classes_in_JavaScript
+- Javascript objects: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics
+- Update HTML with javascript: https://www.w3schools.com/js/js_htmldom_html.asp
 
-A simple bulleted list below is sufficient. For example:
 
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
